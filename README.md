@@ -1,2 +1,1 @@
-# prepcourse-henry
-prueba repositorio curso henry modulo 2
+prueba de como crear y clonar un repositorio desde gthub a mi computadora
